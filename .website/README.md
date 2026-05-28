@@ -1,0 +1,5 @@
+---
+# See github.com/js13kGames/hello-world for supported frontmatter
+---
+
+Spines is a game inspired by my favourite offline game: Tetris. The spines of the falling blocks will not move once they land, but you can clear them by connecting 6 or more squares of the same colour!
